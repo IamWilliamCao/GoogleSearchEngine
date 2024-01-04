@@ -2,8 +2,8 @@
 
 Command Argument:
 1. exe
-2. starting html
-3. output txt.file
+2. starting .html file
+3. output .txt file
 4. search query
 
 Example:
